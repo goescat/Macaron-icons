@@ -1,3 +1,4 @@
 # Macaron-icons
+  <img src="https://github.com/goescat/Macaron-icons/blob/master/macaronicon.png" width="500">
 
-粉嫩色系的 icon theme，目前有 30 個 icon。
+Flat than soft color icons, now include 30 icons.
