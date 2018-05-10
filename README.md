@@ -5,4 +5,4 @@ Flat then soft color icon pack, now include 34 icons.
 
 ## News
 Apr 26 - Add 3 icons: "spotify-client.svg" "text-editor.svg" "vlc.svg".
-include index.theme
+Add index.theme
