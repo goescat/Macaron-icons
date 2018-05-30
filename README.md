@@ -1,7 +1,7 @@
 # Macaron-icons
-Flat then soft color icon pack, now include 34 icons.
+Flat then soft color icon pack, now include 38 icons.
 
-<img src="https://github.com/goescat/Macaron-icons/blob/master/macaronicon.png" width="500">  
+<img src="https://github.com/goescat/Macaron-icons/blob/master/macaronicon.png" width="500">
 
 ## News
-Apr 26 - Add 3 icons: "spotify-client.svg" "text-editor.svg" "vlc.svg".
+May 30 - Add 4 icons: "libreoffice-writer.svg" "libreoffice-calc.svg" "libreoffice-impress.svg" "wireshark.svg".
