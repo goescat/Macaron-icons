@@ -7,4 +7,4 @@ Flat and soft color icon pack, now include  icons.
 JAN. 24 - Add icons: "Vbox.svg".
 
 ## License
-CC-BY-3.0
+[CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/)
