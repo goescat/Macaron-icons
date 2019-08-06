@@ -5,6 +5,7 @@ Flat and soft color icon pack, now include 42 icons.
 
 ## News
 MAY. 14 - Add icon "vim.svg"
+
 JAN. 24 - Add icon "Vbox.svg"
 
 ## License
