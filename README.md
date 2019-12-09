@@ -1,9 +1,11 @@
 # Macaron-icons
-Flat and soft color icon pack, now include 45 icons.
+Flat and soft color icon pack, now include 46 icons.
 
 <img src="https://github.com/goescat/Macaron-icons/blob/master/macaronicon.png" width="500">
 
 ## News
+DEC. 09 - Add icon "imagemagick.svg"
+
 DEC. 08 - Add icons "cheese.svg", "gnome-power-manager.svg"
 
 AUG. 07 - Add icon "com.visualstudio.code.svg"
