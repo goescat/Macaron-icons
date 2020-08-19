@@ -14,5 +14,8 @@ MAY. 14 - Add icon "vim.svg"
 
 JAN. 24 - Add icon "Vbox.svg"
 
+AUG. 19 - Create theme project:
+https://github.com/goescat/Macaron-icon-theme
+
 ## License
 [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/)
