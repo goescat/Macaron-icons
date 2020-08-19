@@ -11,12 +11,5 @@ https://github.com/goescat/Macaron-icon-theme
 * AUG. 07.2019 - Add icon "com.visualstudio.code.svg"
 * DEC. 08.2019 - Add icons "cheese.svg", "gnome-power-manager.svg"
 
-
-
-
-
-
-
-
 ## License
 [CC-BY-3.0](https://creativecommons.org/licenses/by/3.0/)
