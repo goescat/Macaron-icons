@@ -4,7 +4,6 @@ Flat and soft color icon pack.
 <img src="https://github.com/goescat/Macaron-icons/blob/master/macaronicon.png" width="500">
 
 ## News
-<<<<<<< HEAD
 * AUG. 23 - Update folder for apps and places, add 6 icons for folder type.
 * AUG. 22 - Add icon fonts.svg 
 * AUG. 21 - Add icon imagemagick.svg
