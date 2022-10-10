@@ -4,7 +4,8 @@ Flat and soft color icon pack.
 <img src="https://github.com/goescat/Macaron-icons/blob/master/macaronicon.png" width="500">
 
 ## News
-* Oct. 9 - Add icon Zoom.svg 
+* Oct. 10 - Add an icon teamviewer.svg 
+* Oct. 9 - Add an icon Zoom.svg 
 * 2021 AUG. 25 - Add icon gnome-power-statistics.svg 
 * 2021 AUG. 23 - Update folder for apps and places, add 6 icons for folder type.
 * 2021 AUG. 22 - Add icon fonts.svg 
